@@ -1,0 +1,24 @@
+body{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    color: pink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    color: skyblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.bold{
+    font-weight: bold;
+    color: steelblue;
+  }
+  .underline{
+      text-decoration: underline;
+      color:steelblue;
+  }
+  h3{
+      color:skyblue;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+  }
