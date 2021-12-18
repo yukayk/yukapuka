@@ -1,0 +1,32 @@
+.header{
+    top: 30px;
+    left: 30px;
+    right: 30px;
+    height: 150px;
+}
+.common{
+    background-color: rgba(47, 255, 210, 0.205);
+    border: solid 2px rgb(102, 111, 236);
+    position: absolute;
+    text-align: center;
+}
+.mainbody{
+    top: 150px;
+    bottom: auto;
+    left: 30px;
+    right: 30px;
+}
+.moji{
+    color: black;
+    font-size: medium;
+}
+.mojifooter{
+    text-align: right;
+}
+.footer{
+    text-align: center;
+    background-color: grey;
+    color: white;
+    bottom:0%
+    
+}
